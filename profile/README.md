@@ -1,6 +1,6 @@
 # AI Product Studio
 
-Two product managers building real AI products, from a single LLM call to multi-agent systems and production ML, the way a product team would: problem framing, PRDs, evals, sprints, decisions and retros, all in the open.
+A Product Manager building real AI products, from a single LLM call to multi-agent systems and production ML, the way a product team would: problem framing, PRDs, evals, sprints, decisions and retros, all in the open.
 
 **Focus:** e-commerce growth, personalisation, AI recommendations, predictive analytics, enterprise integrations, 0→1 launches. Built for the German market (GDPR-aware, real public data, €0 stack).
 
