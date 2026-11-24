@@ -8,7 +8,7 @@ A Product Manager building real AI products, from a single LLM call to multi-age
 | # | Project | Type | Status |
 |---|---|---|---|
 | 1 | Conversion Teardown | Single LLM call | In progress |
-| 2 | JobPilot v0 | Workflow | Planned |
+| 2 | [JobPilot v0](https://github.com/My-Portfolio-Kapil/p02-jobpilot) | Workflow | Done |
 | 3 | Funnel Leak Finder | Chain | Planned |
 | 4 | Visual Product Tagger | ML: image recognition | Planned |
 | 5 | Purchase Propensity | ML: prediction | Planned |
