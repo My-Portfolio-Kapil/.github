@@ -21,6 +21,4 @@ A Product Manager building real AI products, from a single LLM call to multi-age
 | 12 | JobPilot v1 | Agent | Planned |
 | 13 | 0→1 Launch Studio | Multi-agent | Planned |
 
-## Team
-- **Kapil Babel** — [LinkedIn](#) · PM on odd-numbered projects
-- **Prashant** — [LinkedIn](#) · PM on even-numbered projects
+- **Kapil Babel** — [LinkedIn](#) 
