@@ -9,7 +9,7 @@ A Product Manager building real AI products, from a single LLM call to multi-age
 |---|---|---|---|
 | 1 | [Conversion Teardown](https://github.com/My-Portfolio-Kapil/p01-conversion-teardown) | Single LLM call | Done |
 | 2 | [JobPilot v0](https://github.com/My-Portfolio-Kapil/p02-jobpilot) | Workflow | Done |
-| 3 | Funnel Leak Finder | Chain | Planned |
+| 3 | [Funnel Leak Finder](https://github.com/My-Portfolio-Kapil/p03-funnel-leak-finder) | Chain | Done |
 | 4 | Visual Product Tagger | ML: image recognition | Planned |
 | 5 | Purchase Propensity | ML: prediction | Planned |
 | 6 | Adaptive Homepage | Router | Planned |
